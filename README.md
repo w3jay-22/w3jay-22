@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @w3jay-22
-- 👀 I’m interested in Full Stack 
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning MEAN
 - 💞️ I’m looking to collaborate on Angular
 
